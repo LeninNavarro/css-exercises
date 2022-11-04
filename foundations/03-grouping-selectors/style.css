@@ -1,0 +1,15 @@
+.black, .yellow{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.black{
+    background-color: black;
+    color: #fff;
+}
+
+.yellow{
+    background-color: yellow;
+    color: seagreen;
+    border-style: dashed;
+    border-radius: 40%;
+}
