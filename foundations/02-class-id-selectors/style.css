@@ -1,0 +1,35 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.first{
+background-color: aqua;
+font-size: 50px;
+}
+
+#second{
+
+font-size: 70px;
+font-weight: 900;
+color: blue;
+}
+
+.third{
+font-stretch: condensed;
+background-color: violet;
+font-size: 40px;
+margin-bottom: 2%;
+}
+
+#fourth{
+background-color: greenyellow;
+padding-bottom: 0px;
+margin-bottom: 0px;
+}
+
+.fifth{
+    margin-top: 0%;
+background-color: violet;
+font-size: 80px;
+}
